@@ -1,0 +1,41 @@
+{
+  "id": "LIVE-WATCH-1791735991",
+  "contract": "0x62Fcf6b2425f687ab914f2687646D6Aea23018ad",
+  "transactions": {
+    "open": "0x84c14e4f02da2b20b5a5c51789b82321f017bc3e5e9fec464f63693a1384fc17",
+    "scan": "0xc17f17828fbc617722f5da2f736876b263019b9b2cda349e1f02879253a2197f"
+  },
+  "final": {
+    "coverage": [
+      {
+        "index": 0,
+        "status": "CLEAR",
+        "topic": "Safety state"
+      },
+      {
+        "index": 1,
+        "status": "CLEAR",
+        "topic": "Open incidents"
+      },
+      {
+        "index": 2,
+        "status": "CLEAR",
+        "topic": "Next operator actions"
+      }
+    ],
+    "gaps": [],
+    "id": "LIVE-WATCH-1791735991",
+    "owner": "0xad9c2fEc8a74efa02364A780BAd1936e255C3C25",
+    "patches": [],
+    "report": "Safety state is normal with alarms tested at 06:00. Incident INC-42 remains open and is owned by Mira. The next operator must inspect pump B at 08:00 and record pressure before restart.",
+    "scans": 1,
+    "shift": "Night to morning",
+    "state": "CLEARED",
+    "station": "North operations desk",
+    "topics": [
+      "Safety state",
+      "Open incidents",
+      "Next operator actions"
+    ]
+  }
+}

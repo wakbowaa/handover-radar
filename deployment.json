@@ -1,0 +1,9 @@
+{
+  "network": "StudioNet",
+  "contractAddress": "0x62Fcf6b2425f687ab914f2687646D6Aea23018ad",
+  "deploymentTransaction": "0x77240b995530105c1e30d925b658a5223b6013730f7b8bc12bb6048d7b0bcf9c",
+  "sourceSha256": "08808a107ffe8939869d16c8cb7c7ef220af0daa315550d965aefba9e210791b",
+  "sourceCommit": "98a89c3fb625b5586baabb8566234e025eb5508c",
+  "repository": "https://github.com/wakbowaa/handover-radar",
+  "publicSite": "https://handover-radar.pages.dev/"
+}
